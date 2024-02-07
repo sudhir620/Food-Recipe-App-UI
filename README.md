@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## Splash Screen
 
-This project is a starting point for a Flutter application.
+ ![alt text](https://github.com/sudhir620/Food-Recipe-App-UI/blob/main/splash_screen.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Home Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ![alt text](https://github.com/sudhir620/Food-Recipe-App-UI/blob/main/home_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Details Screen
+ 
+ ![alt text](https://github.com/sudhir620/Food-Recipe-App-UI/blob/main/details_screen.png)
